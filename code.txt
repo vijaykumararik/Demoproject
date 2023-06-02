@@ -1,0 +1,10 @@
+class Demo{
+public static void main(String arg[]){
+
+ Sysout.out.println("hello iam here working")
+
+}
+
+
+
+}
